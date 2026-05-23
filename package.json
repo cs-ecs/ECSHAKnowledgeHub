@@ -1,9 +1,12 @@
 {
-	"name": "functions",
-	"version": "1.0.0",
-	"main": "index.js",
-	"author": "admin@ecsha.com",
-	"dependencies": {
-		"zcatalyst-sdk-node": "latest"
-	}
+  "name": "functions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "admin@ecsha.com",
+  "scripts": {
+    "build": ""
+  },
+  "dependencies": {
+    "zcatalyst-sdk-node": "latest"
+  }
 }
