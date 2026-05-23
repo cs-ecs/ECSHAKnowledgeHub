@@ -1,0 +1,18 @@
+{
+  "functions": {
+    "targets": [
+      "functions"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  },
+  "appsail": [
+    {
+      "source": ".",
+      "name": "appsail"
+    }
+  ]
+}

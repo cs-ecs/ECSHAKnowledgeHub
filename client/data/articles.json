@@ -1,0 +1,74 @@
+[
+{
+"id":1,
+"category":"Agriculture",
+"title":"PM-KISAN Support Scheme",
+"description":"PM-KISAN provides financial support for eligible farmers across India.",
+"author":"Ecsha Team",
+"date":"2026-05-22"
+},
+
+{
+"id":2,
+"category":"Agriculture",
+"title":"Precision Farming in Kerala",
+"description":"Farmers increasingly adopt precision agriculture techniques.",
+"author":"Ecsha Team",
+"date":"2026-05-22"
+},
+
+{
+"id":3,
+"category":"Agriculture",
+"title":"Organic Farming Growth",
+"description":"Organic farming methods improve soil and productivity.",
+"author":"Ecsha Team",
+"date":"2026-05-22"
+},
+
+{
+"id":11,
+"category":"Technology",
+"title":"AI in Smart Farming",
+"description":"AI sensors help farmers predict crop diseases.",
+"author":"Ecsha Team",
+"date":"2026-05-22"
+},
+
+{
+"id":12,
+"category":"Technology",
+"title":"IoT Agriculture Systems",
+"description":"Connected sensors monitor field conditions.",
+"author":"Ecsha Team",
+"date":"2026-05-22"
+},
+
+{
+"id":21,
+"category":"Education",
+"title":"Digital Education Programs",
+"description":"Schools adopt online learning systems.",
+"author":"Ecsha Team",
+"date":"2026-05-22"
+},
+
+{
+"id":31,
+"category":"Government",
+"title":"Rural Development Mission",
+"description":"Government expands village infrastructure.",
+"author":"Ecsha Team",
+"date":"2026-05-22"
+},
+
+{
+"id":41,
+"category":"Business",
+"title":"Agri Startup Growth",
+"description":"Indian agri startups receive new investments.",
+"author":"Ecsha Team",
+"date":"2026-05-22"
+}
+
+]
