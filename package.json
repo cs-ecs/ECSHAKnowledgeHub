@@ -4,7 +4,7 @@
 	"main": "index.js",
 	"author": "admin@ecsha.com",
 	"scripts": {
-		"build": "mkdir -p dist"
+		"build": "mkdir -p dist && echo '<h1>Backend Function Successfully Deployed to Slate</h1>' > dist/index.html"
 	},
 	"dependencies": {
 		"zcatalyst-sdk-node": "latest"
